@@ -39,9 +39,9 @@ algunas implementaciones al sistema, para garantizar el apropiado funcionamiento
 	- Y a través de un usuario "cliente", contraseña "1234". Para la gestión de usuarios.
 
 
-2.- Gestion de Usuarios de la plataforma.
+2.- Gestión de Usuarios de la plataforma.
 
-	- Se crea formulario que permitará agregar un nuevo usuario al sistema dependiendo de su pefil y editarlo en caso de 
+	- Se crea formulario que permitará agregar un nuevo usuario al sistema dependiendo de su perfil y editarlo en caso de 
     ser requerido.
 	- Y se implementa funcionalidad para listar a todos los usuarios y ver detalle alguno en especifico. 
 
@@ -58,6 +58,6 @@ algunas implementaciones al sistema, para garantizar el apropiado funcionamiento
 ## Herramientas
 
 - Java 15 
-- Tomcat
+- Tomcat 9
 - MySQL
 
